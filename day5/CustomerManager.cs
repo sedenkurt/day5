@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace OOP2DAY2
+{ //business classes
+    class CustomerManager
+    {
+        public void Add(Musteri musteri)
+        {
+           // if (musteri.) { }
+        }
+    }
+}
